@@ -39,7 +39,7 @@ python proyecto_xx_nombre/archivo.py
 
 Carlos Tlali Rosales  
 Estudiante de Ingeniería en Ciberseguridad | Jr. Cybersecurity Analyst | Data & Cloud Enthusiast  
-[LinkedIn](https://www.linkedin.com/in/carlos-tlali) 
+[LinkedIn](https://www.linkedin.com/in/carlostlali/) 
 
 ---
 
