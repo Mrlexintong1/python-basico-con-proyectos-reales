@@ -32,6 +32,34 @@ Cada carpeta contiene su propio código funcional y documentación específica. 
 ```bash
 python proyecto_xx_nombre/archivo.py
 ```
+## 🤝 Contribuciones
+
+¡Las contribuciones son lo que hace que la comunidad de código abierto sea un lugar increíble para aprender, inspirar y crear! Si quieres contribuir, sigue estos pasos:
+
+1. **Haz un fork** del repositorio
+2. **Clona** tu fork localmente en tu máquina:
+    ```bash
+    git clone https://github.com/tu_usuario/python-basico-con-proyectos-reales.git
+    ```
+3. **Crea tu rama** para la nueva funcionalidad:
+    ```bash
+    git checkout -b nueva-funcionalidad
+    ```
+4. **Realiza tus cambios** en el código y haz un commit:
+    ```bash
+    git commit -m "Añadir nueva funcionalidad"
+    ```
+5. **Sube los cambios** a tu repositorio en GitHub:
+    ```bash
+    git push origin nueva-funcionalidad
+    ```
+6. **Crea un Pull Request** desde tu repositorio hacia el repositorio original.
+
+Te agradeceré mucho tus contribuciones y feedback.
+
+---
+
+¡Gracias por colaborar en este proyecto!
 
 ---
 
