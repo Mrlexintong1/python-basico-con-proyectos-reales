@@ -30,4 +30,17 @@ Cada carpeta contiene su propio código funcional y documentación específica. 
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/mrlexintong1/python-basico-con-proyectos-reales.git
+python proyecto_xx_nombre/archivo.py
+```
+
+---
+
+## 🤝 Autor
+
+Carlos Tlali Rosales  
+Estudiante de Ingeniería en Ciberseguridad | Jr. Cybersecurity Analyst | Data & Cloud Enthusiast  
+[LinkedIn](https://www.linkedin.com/in/carlos-tlali) 
+
+---
+
+> *Este repositorio está en constante evolución como parte de mi portafolio educativo y profesional.*
